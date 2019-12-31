@@ -4,7 +4,7 @@ date: "2019-12-28T22:12:03.284Z"
 description: ""
 ---
 
-I wasn't planning on reading this book, but we were staying at my mother-in-law's for Christmas and I had only brought a non-fiction book that was boring me. I thought the title sounded interested and I hadn't heard of the author. Apparently that's enough to pique my curiosity these days[1].
+I wasn't planning on reading this book, but we were staying at my mother-in-law's for Christmas and I had only brought a non-fiction book that was boring me. I thought the title sounded interesting and I hadn't heard of the author. Apparently that's enough to pique my curiosity these days[1].
 
 It's worth mentioning upfront that although this book can probably be found in the Fantasy section of your favourite bookshop/library, it lacks some of the genre's most popular elements such as magic, legendary heroes, mythical creatures, etc. It is set in a fictional but run-of-the-mill medieval-ish city with its castle and walls.
 
