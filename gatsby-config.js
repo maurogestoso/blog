@@ -3,7 +3,7 @@ module.exports = {
     title: `> maurogestoso`,
     author: `Mauro Gestoso`,
     description: `My personal website`,
-    siteUrl: `https://https://maurogestoso.github.io/`,
+    siteUrl: `https://blog.maurogestoso.now.sh/`,
     social: {
       twitter: `curiousmau`,
     },
@@ -47,12 +47,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
