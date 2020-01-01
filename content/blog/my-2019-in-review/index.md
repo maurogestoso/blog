@@ -30,23 +30,18 @@ is useful and therapeutic. So here it is, in no particular order, off the top of
 - In April I changed jobs from a back-end engineer at BBC to a consultant at Infinity Works. I'm liking it so far, I've learned loads from my colleagues and added a new dimension to my skillset by interacting a lot more with clients and being exposed more to the commercial aspect of software engineering.
 - I picked up Golang and feel fairly fluent with it. I love the minimalism of its API, how well designed its standard library is and how certain language features enforce best practices. I'd say it's become my programming language of choice.
 - I fully embraced working with serverless technologies and got certified as an AWS Solutions Architect. I definitely feel like I leveled up my engineering skills this year, I'm quite happy with that.
-- On the other hand I feel like I lost a lot of passion and interest for programming. I can see now how consulting can make you feel like a mercenary and if the project/client you're assigned to is not great or you can't influence it that much, it becomes quite frustrating and draining.
+- On the other hand I feel like I lost a lot of passion and interest for programming. I can see now how consulting can make you feel a bit like a mercenary and if the project/client you're assigned to is not great or you can't influence it that much, it becomes quite frustrating and draining. Haven't figured out what to do about this yet.
 
 ## Reading
 
 - I set myself the unambitious goal of reading 30 books this year and I was on track for the first half, but as I mentioned before I lost all my momentum. I probably ended the year in the low 20s which is not terrible but it could have been a lot more.
-- Fiction:
-
 - Reread Dune by Frank Herbert. Still amazing. I can't bring myself to read the next books because I know they will disappoint me.
 - Finally started reading His Dark Materials by Phillip Pullman and I can't believe how good those books are. I wish I read them when I was younger, they are **a million** times better than Harry Potter, but I'm still enjoying them as a grown-ass man.
 - I discovered the Books of Babel series by Josiah Bancroft and they are so much fun. They are modern Jules Verne-style adventures (minus the casual 19th century racism)[1] that take me back to my childhood.
 - Read American Psycho by Brett Easton Ellis and I still haven't showered enough times to get it off my system.
-
-- Non-Fiction:
-
 - As I mentioned before, I really enjoyed reading Naomi Klein, Yuval Noah Harari and David Wallace-Wells. I really enjoy books on the intersection of environmentalist thinking, history, behavioural economics and psychology.
 - Happy City by Charles Montgomery is a great/depressing read if you feel like your city is poorly designed and is trying to kill you (mine is).
-- With my current struggles with the use social media, Digital Minimalism by Cal Newport deserves a reread.
+- With my current struggles with the use of social media, Digital Minimalism by Cal Newport deserves a reread.
 
 ## Film and TV
 
