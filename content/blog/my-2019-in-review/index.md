@@ -10,7 +10,13 @@ is useful and therapeutic. So here it is, in no particular order, off the top of
 ## Personal
 
 - In August I got married to my absolute favourite person in the whole world. We had a lovely party with family and friends from Manchester, Kent, Spain and Argentina. I still can't believe how lucky I am to have found Harriet and she agreed to marry me. I don't feel like our relationship has changed since we got married, we didn't need to demonstrate our commitment to each other, but it was nice to celebrate it with the people we love.
+
+![Harriet](./hat.jpg)
+
 - In November we welcomed Tofu to our family. He's long-haired Chihuahueño puppy and the best dog one could ask. I never had a dog so I'm still getting used to it, but he's brought so much joy to our lives already.
+
+![Tofu the dog](./tofu.jpg)
+
 - This was the year I fully grasped the tremendous scale and importance of the climate crisis, mostly thanks to books like "This Changes Everything" by Naomi Klein, "21 Lessons for the 21st Century" by Yuval Noah Harari and "The Uninhabitable Earth" by David Wallace-Wells. This realisation put the environment as a central concern and it's become the main driving force for big decisions in my life. I feel like I've stopped thinking in short vs. long terms. There won't be a long term if we don't change the way we live **now**. On the other side of the coin, this has also been a great source of anxiety.
 - Even though I've been (mostly) vegan and fairly environmentally conscious for the last 3 years, this year my views on these topics gained a lot more nuance and I understand better now the effect my choices as an individual have. I've been focusing on sharing what I've learned with the people around me in an empathetic and non-confrontational way. It's rewarding to see my parents, friends and coworkers being influenced by my ideas and choices.
 - Earlier this year I developed a pretty healthy morning routine and reading habit but I don't know at what point or why I broke the chain and lost all my momentum. I never picked it back up.
@@ -81,7 +87,9 @@ I think from a historical point of view, 2019 was a dumpster fire of a year for 
 
 Personally, even though I've suffered from a lot of anxiety and general aimlessness, I think it was a positive year. I'm incredibly privileged to have a happy family, we are healthy and economically stable. My only fixed goal for 2020 is to not take this for granted, be grateful and help others as much as I can.
 
+![Happy New Year from Tofu and me!](./me-tofu.jpg)
+
 ## Footnotes
 
-[1] Apparently the translations of Verne's books to English [are really bad](https://www.theguardian.com/books/booksblog/2007/sep/11/julesvernedeservesabetter).
-[2] Here are some examples: [October](https://open.spotify.com/playlist/1oNBb3vIJez8FwAWJFeBIM?si=rLRVqiopTuS9GuHXF402WA), [November](https://open.spotify.com/playlist/0AsXZY4KvB1TXdUbK3fmcs?si=4XRa0RsdTyi4JHrZQwtJZA), [December](https://open.spotify.com/playlist/0QPvT8kiVdppmpSxCE9ugl?si=XuMLQP9kS-OsE8RnEJwh8A)
+1. Apparently the translations of Verne's books to English [are really bad](https://www.theguardian.com/books/booksblog/2007/sep/11/julesvernedeservesabetter).
+2. Here are some examples: [October](https://open.spotify.com/playlist/1oNBb3vIJez8FwAWJFeBIM?si=rLRVqiopTuS9GuHXF402WA), [November](https://open.spotify.com/playlist/0AsXZY4KvB1TXdUbK3fmcs?si=4XRa0RsdTyi4JHrZQwtJZA), [December](https://open.spotify.com/playlist/0QPvT8kiVdppmpSxCE9ugl?si=XuMLQP9kS-OsE8RnEJwh8A)
